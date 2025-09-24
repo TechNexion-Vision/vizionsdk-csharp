@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="CSVizionSDK" Version="VERSION" />
+    <PackageReference Include="CSVizionSDK" Version="" />
   </ItemGroup>
 
 </Project>
