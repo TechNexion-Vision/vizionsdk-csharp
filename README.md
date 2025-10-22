@@ -39,7 +39,8 @@ dotnet add package CSVizionSDK --version {VERSION}
 - Github Pages: https://github.com/TechNexion
 - VizionSDK Overview: https://developer.technexion.com/docs/vision-software/vizionsdk
 - VizionSDK C# Installation: https://developer.technexion.com/docs/vision-software/vizionsdk/csharp/csvizionsdk-installation
-- VizionSDK API User Guide: https://developer.technexion.com/docs/category/recommended-api-v25041
+- VizionSDK API User Guide: https://developer.technexion.com/docs/category/vizionsdk-api
 
 ## Related links
+
 - [Technexion Main Page](https://www.technexion.com/)
