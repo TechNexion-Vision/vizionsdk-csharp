@@ -35,10 +35,10 @@ dotnet add package CSVizionSDK.runtime.<os>
 
 #### [Windows x64](https://developer.technexion.com/docs/vision-software/vizionsdk/csharp/csvizionsdk-installation#windows-x64)
 - Windows 10 and 11 (64-bit)
-#### [Linux x64](https://developer.technexion.com/docs/vision-software/vizionsdk/csharp/csvizionsdk-installation#linux-x64)
+#### [Linux x64](https://developer.technexion.com/docs/vision-software/vizionsdk/csharp/csvizionsdk-installation#linux-x86_64)
 - Ubuntu Desktop 20.04 and 22.04 (64-bit)
 - UP Squared Pro 7000
-#### [Linux ARM64](https://developer.technexion.com/docs/vision-software/vizionsdk/csharp/csvizionsdk-installation#linux-arm64)
+#### [Linux ARM64](https://developer.technexion.com/docs/vision-software/vizionsdk/csharp/csvizionsdk-installation#arm-aarch64)
 - NVIDIA Jetson (JetPack6 or later)
 - NXP-i.MX8MM, NXP-i.MX8MQ, NXP-i.MX8MP, NXP-i.MX93, NXP-i.MX95
 - TI-TDA4VM
