@@ -63,4 +63,4 @@ Once executed, the sample application will run using the CSVizionSDK library.
 
 If you like to use other functions from CSVizionSDK, please visit to our website to see other API.
 
-**API User Guide** : https://developer.technexion.com/docs/category/recommended-api-v25041
+**API User Guide** : https://developer.technexion.com/docs/category/vizionsdk-api
