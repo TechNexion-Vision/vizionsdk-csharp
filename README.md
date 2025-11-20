@@ -3,7 +3,10 @@ CSVizionSDK is a software development kit for C# wrapped from the original Vizio
 
 ## What is included in the repository
 - `samples/` : C# samples project source code.
-- `config/` : A config file of TechNexion Camera series for CSVizionSDK.
+- `config/` : Configuration resources for TechNexion camera series, including:
+  - **VxConfig**: A configuration file used by CSVizionSDK to recognize TechNexion camera series.
+  - **VxExposure**: A YAML file defining the default minimum and maximum exposure time values for each sensor and resolution.
+  - **RouteConfig**: A folder containing media route YAML file templates.
   
 ## Supported Versions
 CSVizionSDK targets .NET Standard 2.0 and is compatible with:
