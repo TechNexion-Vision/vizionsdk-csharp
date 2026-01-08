@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="CSVizionSDK" Version="" />
+    <PackageReference Include="CSVizionSDK.runtime.win-x64" Version="" />
   </ItemGroup>
 
 </Project>
