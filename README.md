@@ -17,10 +17,10 @@ CSVizionSDK targets .NET Standard 2.0 and is compatible with:
 
 ## How to Install CSVizionSDK
 
-#### Install from the [NuGet.org](https://www.nuget.org/packages/CSVizionSDK) directly
+#### Install from the [NuGet.org](https://www.nuget.org/packages/CSVizionSDK)  
+Installing the core package will typically pull the necessary runtime dependency automatically if available in your source.
 ```
 dotnet add package CSVizionSDK
-dotnet add package CSVizionSDK.runtime.<os>
 ```
 
 #### [Windows x64](https://developer.technexion.com/docs/vision-software/vizionsdk/csharp/csvizionsdk-installation#windows-x64)
