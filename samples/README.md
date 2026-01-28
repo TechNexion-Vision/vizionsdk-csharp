@@ -18,19 +18,11 @@ Here’s an example configuration:
 <ItemGroup>
     <!-- Reference the CSVizionSDK NuGet package -->
     <PackageReference Include="CSVizionSDK" Version="VERSION" />
-    <PackageReference Include="CSVizionSDK.runtime.<OS>" Version="VERSION" />
 </ItemGroup>
 </Project>
 ```
-:::info
-- The sample code uses **Windows** as the default platform. Please replace it with your actual platform type.
-- Replace `VERSION` with the correct version of the **CSVizionSDK** package.
-- Replace `OS` with the correct operating system identifier.  
-  Runtime package names include the target platform:
-    - `CSVizionSDK.runtime.win-x64`
-    - `CSVizionSDK.runtime.linux-x64`
-    - `CSVizionSDK.runtime.linux-arm64`
-:::
+> Replace `VERSION` with the appropriate version of the CSVizionSDK package.  
+> The core CSVizionSDK will automatically load the required runtime package as a dependency.
 
 Ensure that the target framework matches the one supported by the package, such as:
 - net8.0 (recommended)
